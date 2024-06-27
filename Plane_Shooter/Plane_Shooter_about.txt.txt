@@ -1,0 +1,19 @@
+I developed "Plane Shooter," a 2D mobile game for Android that features levels with unique bosses,
+each with different strengths and logic. This project was a continuation of my journey in game development.
+
+Details:-
+> Role: Sole Developer
+> Objective: To expand my learning by building a 2D game with new thought processes and challenges.
+> Technologies Used: Unity Engine, C#
+> Learning Source: YouTube course references
+> Duration: 1.5-2 months
+> Challenges: Designing and balancing various bosses and their strengths for each level was challenging but enjoyable.
+> Outcome: The game includes UI/UX elements, sound, and multiple levels, offering a nostalgic retro 90s game experience.
+           Despite the simple graphics, the project was a fun and valuable learning experience.
+
+Achievements:-
+> Successfully developed and released a 2D plane shooter game for Android.
+> Improved skills in level design and game balancing.
+> Enhanced understanding of mobile game development and UI/UX integration.
+
+Skills: Unity · C# · Time Management · Project Management · Game Development

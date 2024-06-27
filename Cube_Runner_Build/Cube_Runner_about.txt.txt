@@ -1,0 +1,20 @@
+I developed "Cube Runner," a beginner-friendly runner game where a cube navigates through obstacles.
+This project was a hands-on learning experience in game development.
+
+Details:-
+> Role: Sole Developer
+> Objective: To create a functional runner game and apply my development skills practically.
+> Technologies Used: Unity Engine, C#
+> Learning Source: YouTube course references
+> Duration: 4-5 months (part-time due to college commitments)
+> Challenges: As my first game, understanding the intricacies of game development was challenging. However, perseverance 
+              and dedication led to successful completion.
+> Outcome: The game features decent graphics and good color contrast. Despite initial hurdles, the project was a significant 
+           learning experience, and I plan to improve the game in future iterations.
+
+Achievements:-
+> Developed a complete runner game independently.
+> Enhanced practical understanding of Unity and C#.
+> Successfully balanced project work with college commitments.
+
+Skills: Unity · C# · Time Management · Project Management · Game Development
